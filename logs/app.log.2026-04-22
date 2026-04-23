@@ -1,0 +1,87 @@
+2026-04-22 23:09:15 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:09:15 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:09:15 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:09:15 | INFO     | backend.app_context | Varsayılan admin oluşturuldu → kullanici: admin | sifre: admin123
+2026-04-22 23:09:15 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:09:56 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:09:56 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:09:56 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:09:56 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:10:07 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:12 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:18 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:22 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:24 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:30 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-22 23:10:35 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-22 23:10:35 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-22 23:10:35 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-04-22 23:12:15 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:12:15 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:12:15 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:12:15 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:12:20 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-04-22 23:12:21 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:38 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:40 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:40 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:40 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:41 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:41 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:41 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:41 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:43 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:12:46 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-22 23:12:46 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-22 23:12:46 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-04-22 23:12:54 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:12:54 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:12:54 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:12:54 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:12:59 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-04-22 23:13:00 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:13:40 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-22 23:13:40 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-22 23:13:40 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-04-22 23:22:21 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:22:21 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:22:21 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:22:21 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:25:21 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:25:21 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:25:21 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:25:21 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:34:20 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:34:20 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:34:20 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:34:20 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:45:11 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:45:11 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:45:11 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:45:11 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:45:57 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:45:57 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:45:57 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:45:57 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:46:08 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-04-22 23:46:11 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:46:47 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-22 23:46:47 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-22 23:46:47 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-04-22 23:49:44 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-22 23:49:44 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-22 23:49:44 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-22 23:49:44 | INFO     | backend.app_context | AppContext hazır.
+2026-04-22 23:49:49 | INFO     | backend.services.auth_service | Giriş başarılı: musteri (rol=customer)
+2026-04-22 23:49:51 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:50:09 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:50:09 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:50:09 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:50:11 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-22 23:54:46 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-22 23:54:46 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-22 23:54:46 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
