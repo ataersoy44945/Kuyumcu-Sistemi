@@ -1,0 +1,17 @@
+2026-04-24 02:41:07 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-04-24 02:41:07 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-04-24 02:41:07 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-04-24 02:41:07 | INFO     | backend.app_context | AppContext hazır.
+2026-04-24 02:41:13 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-24 02:41:17 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-24 02:41:21 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-24 02:41:31 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-04-24 02:41:34 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-04-24 02:41:36 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-24 02:41:52 | INFO     | backend.services.auth_service | Çıkış: admin
+2026-04-24 02:41:56 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: beyto
+2026-04-24 02:41:57 | INFO     | backend.services.auth_service | Giriş başarılı: beyto (rol=customer)
+2026-04-24 02:41:58 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-04-24 02:42:25 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-04-24 02:42:25 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-04-24 02:42:25 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).

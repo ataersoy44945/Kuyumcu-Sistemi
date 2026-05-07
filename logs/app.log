@@ -1,0 +1,86 @@
+2026-05-08 00:49:16 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-05-08 00:49:16 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-05-08 00:49:16 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-05-08 00:49:16 | INFO     | backend.app_context | AppContext hazır.
+2026-05-08 00:49:29 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-05-08 00:49:29 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:49:52 | INFO     | backend.services.auth_service | Çıkış: admin
+2026-05-08 00:49:55 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: ata
+2026-05-08 00:50:01 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: ata
+2026-05-08 00:50:04 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: ata
+2026-05-08 00:53:34 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: ataersoy1234
+2026-05-08 00:53:34 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: ataersoy1234
+2026-05-08 00:53:41 | INFO     | backend.services.auth_service | Giriş başarılı: ataersoy1234 (rol=customer)
+2026-05-08 00:53:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:53:54 | INFO     | backend.services.campaign_service | 2 süresi dolan kampanya pasife çekildi.
+2026-05-08 00:53:56 | INFO     | backend.services.auth_service | Çıkış: ataersoy1234
+2026-05-08 00:54:01 | INFO     | backend.services.auth_service | Giriş denemesi — yanlış şifre: admin
+2026-05-08 00:54:04 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-05-08 00:54:04 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:54:20 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-05-08 00:54:20 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-05-08 00:54:20 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-05-08 00:57:31 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-05-08 00:57:31 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-05-08 00:57:31 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-05-08 00:57:31 | INFO     | backend.app_context | AppContext hazır.
+2026-05-08 00:57:34 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: ata
+2026-05-08 00:57:41 | INFO     | backend.services.auth_service | Giriş başarılı: ataersoy1234 (rol=customer)
+2026-05-08 00:57:41 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:57:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:57:56 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=16 qty=1
+2026-05-08 00:58:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 00:59:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:00:42 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:00:48 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-05-08 01:00:48 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-05-08 01:00:48 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-05-08 01:12:47 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-05-08 01:12:47 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-05-08 01:12:47 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-05-08 01:12:47 | INFO     | backend.app_context | AppContext hazır.
+2026-05-08 01:12:55 | INFO     | backend.services.auth_service | Giriş başarılı: ataersoy1234 (rol=customer)
+2026-05-08 01:12:55 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:12:56 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:13:01 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=16 qty=1
+2026-05-08 01:13:03 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=36 qty=1
+2026-05-08 01:13:42 | INFO     | backend.services.order_service | Sipariş oluşturuldu: KJ-2026-33775 id=8 user=4 toplam=160745.25 kargo=0.00 ödeme=card
+2026-05-08 01:13:49 | INFO     | backend.services.auth_service | Çıkış: ataersoy1234
+2026-05-08 01:13:53 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: admin123
+2026-05-08 01:13:57 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-05-08 01:13:58 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:14:22 | INFO     | backend.services.auth_service | Çıkış: admin
+2026-05-08 01:14:24 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-05-08 01:14:24 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-05-08 01:14:24 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-05-08 01:21:17 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-05-08 01:21:17 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-05-08 01:21:17 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-05-08 01:21:17 | INFO     | backend.app_context | AppContext hazır.
+2026-05-08 01:21:21 | INFO     | backend.services.auth_service | Giriş denemesi — kullanıcı bulunamadı: ata
+2026-05-08 01:21:25 | INFO     | backend.services.auth_service | Giriş başarılı: ataersoy1234 (rol=customer)
+2026-05-08 01:21:25 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:21:26 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:21:33 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=16 qty=1
+2026-05-08 01:22:00 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-05-08 01:22:00 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-05-08 01:22:00 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
+2026-05-08 01:27:11 | INFO     | __main__ | === Kuyumcu Yönetim Sistemi v1.0.0 başlatılıyor ===
+2026-05-08 01:27:11 | INFO     | backend.app_context | AppContext başlatılıyor…
+2026-05-08 01:27:11 | INFO     | backend.database.database_manager | Veritabanı başlatıldı: c:\Users\Fatalstroke\kuyumcu_sistemi\data\app.db
+2026-05-08 01:27:11 | INFO     | backend.app_context | AppContext hazır.
+2026-05-08 01:27:17 | INFO     | backend.services.auth_service | Giriş başarılı: ataersoy1234 (rol=customer)
+2026-05-08 01:27:18 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:27:18 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:27:22 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=16 qty=1
+2026-05-08 01:27:57 | INFO     | backend.services.saved_card_service | Kart kaydedildi: user=4 brand=unknown last4=1234
+2026-05-08 01:27:57 | INFO     | backend.services.order_service | Sipariş oluşturuldu: KJ-2026-98072 id=9 user=4 toplam=134504.67 kargo=0.00 ödeme=card
+2026-05-08 01:28:10 | INFO     | backend.services.cart_service | Sepete eklendi: user=4 product=16 qty=1
+2026-05-08 01:28:18 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:28:26 | INFO     | backend.services.auth_service | Çıkış: ataersoy1234
+2026-05-08 01:28:31 | INFO     | backend.services.auth_service | Giriş başarılı: admin (rol=admin)
+2026-05-08 01:28:32 | INFO     | backend.services.exchange_rate_service | Kur birincil API'den alındı.
+2026-05-08 01:28:45 | INFO     | backend.services.auth_service | Çıkış: admin
+2026-05-08 01:28:46 | INFO     | backend.database.database_manager | Veritabanı bağlantısı kapatıldı.
+2026-05-08 01:28:46 | INFO     | backend.app_context | AppContext kapatıldı.
+2026-05-08 01:28:46 | INFO     | __main__ | Uygulama kapatıldı (exit_code=0).
